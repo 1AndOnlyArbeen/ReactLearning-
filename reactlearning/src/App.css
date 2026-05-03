@@ -1,3 +1,10 @@
 .test{
     color: red;
 }
+
+.visible{
+    display:block
+}
+.unvisible{
+    display: none;
+}
