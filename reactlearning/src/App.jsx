@@ -17,13 +17,13 @@ import React from "react";
 // import SimpleForm from './SimpleForm';
 // import MultiInputForm from './MultiInputForm';
 // import AdvanceForm from './AdvanceForm';
-import ToDo from "./ToDo";
 
+import Timer from "./Timer";
 const App = () => {
   return (
     <div>
-     <ToDo/>
-
+      {/* <First /> */}
+      <Timer/>
     </div>
   );
 };
