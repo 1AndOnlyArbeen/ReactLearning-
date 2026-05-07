@@ -1,11 +1,12 @@
 import React from "react";
+import Users from './Users';
 
-import WindowSizeTracker from "./WindowSizeTracker";
 const App = () => {
   return (
     <div>
+      
+      <Users/>
  
-      <WindowSizeTracker/>
     </div>
   );
 };
